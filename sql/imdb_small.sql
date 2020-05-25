@@ -19,9 +19,9 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-/*DROP DATABASE IF EXISTS imdb_small;
+DROP DATABASE IF EXISTS imdb_small;
 CREATE DATABASE imdb_small;
-USE martystepp_com_imdb_small;*/
+USE martystepp_com_imdb_small;
 
 --
 -- Table structure for table `actors`
